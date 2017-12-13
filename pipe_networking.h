@@ -7,6 +7,9 @@
 #include <string.h>
 #include <errno.h>
 
+#define READ 0
+#define WRITE 1
+
 #ifndef NETWORKING_H
 #define NETWORKING_H
 #define ACK "HOLA"
