@@ -6,6 +6,7 @@
 #include <sys/stat.h>
 #include <string.h>
 #include <errno.h>
+#include <ctype.h>
 
 #define READ 0
 #define WRITE 1
